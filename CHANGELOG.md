@@ -11,3 +11,6 @@ All notable changes to credential-enumeration will be documented in this file.
 ## [0.1.2] - 2025-11-03
 - feat: implement password policy analyzer and kerberoastable account detection
 
+## [0.1.3] - 2025-11-04
+- fix: handle pagination in large LDAP directory queries
+
